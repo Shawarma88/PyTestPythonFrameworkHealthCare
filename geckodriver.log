@@ -1,0 +1,44 @@
+1664915505401	geckodriver	INFO	Listening on 127.0.0.1:52559
+1664915508455	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52561" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GOKULA~1\\AppData\\Local\\Temp\\rust_mozprofile7Ky4eZ"
+1664915509198	Marionette	INFO	Marionette enabled
+1664915509204	Marionette	INFO	Listening on port 52572
+Read port: 52572
+WebDriver BiDi listening on ws://127.0.0.1:52561
+1664915509395	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GOKULA~1\\AppData\\Local\\Temp\\rust_mozprofile7Ky4eZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52561/devtools/browser/ccbd1644-16f9-41ef-95a3-efffb281eaa5
+1664915518559	Marionette	INFO	Stopped listening on port 52572
+1664915521877	geckodriver	INFO	Listening on 127.0.0.1:52617
+1664915524923	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52618" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GOKULA~1\\AppData\\Local\\Temp\\rust_mozprofilePg3kSG"
+1664915525651	Marionette	INFO	Marionette enabled
+1664915525663	Marionette	INFO	Listening on port 52637
+Read port: 52637
+WebDriver BiDi listening on ws://127.0.0.1:52618
+1664915525950	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GOKULA~1\\AppData\\Local\\Temp\\rust_mozprofilePg3kSG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52618/devtools/browser/7018c85c-8565-468c-9cd3-3da655694809
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://katalon-demo-cura.herokuapp.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://katalon-demo-cura.herokuapp.com."
+1664915535453	Marionette	INFO	Stopped listening on port 52637
+1664976720030	geckodriver	INFO	Listening on 127.0.0.1:58032
+1664976723088	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58033" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GOKULA~1\\AppData\\Local\\Temp\\rust_mozprofile2VAEyb"
+1664976723708	Marionette	INFO	Marionette enabled
+1664976723715	Marionette	INFO	Listening on port 58042
+Read port: 58042
+WebDriver BiDi listening on ws://127.0.0.1:58033
+1664976723887	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GOKULA~1\\AppData\\Local\\Temp\\rust_mozprofile2VAEyb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58033/devtools/browser/056aec76-d0b5-4eae-a8e9-0b5c86d004d1
+1664976730187	Marionette	INFO	Stopped listening on port 58042
+1664976732650	geckodriver	INFO	Listening on 127.0.0.1:58085
+1664976735693	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58086" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GOKULA~1\\AppData\\Local\\Temp\\rust_mozprofileedMDgB"
+1664976736148	Marionette	INFO	Marionette enabled
+1664976736154	Marionette	INFO	Listening on port 58095
+WebDriver BiDi listening on ws://127.0.0.1:58086
+Read port: 58095
+1664976736443	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GOKULA~1\\AppData\\Local\\Temp\\rust_mozprofileedMDgB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58086/devtools/browser/9c79e2de-9c89-42d2-abdd-0b6b288adf0b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://katalon-demo-cura.herokuapp.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://katalon-demo-cura.herokuapp.com."
+1664976743069	Marionette	INFO	Stopped listening on port 58095
